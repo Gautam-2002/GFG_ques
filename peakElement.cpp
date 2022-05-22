@@ -31,6 +31,7 @@ class Solution
            }
            mid=s+(e-s)/2;
        }
+       return 0;
     }
 };
 
